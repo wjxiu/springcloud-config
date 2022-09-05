@@ -1,2 +1,2 @@
 server:
-  prot:1234
+  port: 3344
